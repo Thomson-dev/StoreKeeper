@@ -40,7 +40,7 @@ You can try the app instantly on **Appetize.io** without downloading:
 Want to install it directly on your Android device?  
 Click below to download the release APK:
 
-🔗 [Download APK from Google Drive](https://drive.google.com/file/d/1PHv5mw3DQzt1hkV7qEtGjNlXsJ8Ypd-0/view?usp=drive_link)
+🔗 [Download APK from Google Drive](https://drive.google.com/drive/folders/1hjtFFzrXpSMF20fLPRSnAP2tR0J5CgfP?usp=drive_link)
 
 ---
 
